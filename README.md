@@ -1,7 +1,7 @@
 # Dario Cioni
 
 <a href="https://www.linkedin.com/in/dario-cioni/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="58">
 </a>
 
 <a href="https://stackexchange.com/users/23931790/dario-cioni">
