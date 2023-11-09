@@ -22,6 +22,8 @@
 
 
 * 📖 Student at University of Florence - Master of Artificial Intelligence
-* 🤖 Working in Deep Learning - Currently focused on Computer Vision and Multimodal Learning
+* :crown: Visiting Research Student at Queen Mary University of London
+* 🤖 Deep Learning - Computer Vision and Multimodal Learning research
+* :mortar_board: Currently working on my final thesis on Synthetic Image Detection and Attribution
 * 💻 6+ years of experience as Software Engineer and Analyst
 * 🔭 Looking for job opportunities in the Artificial Intelligence field
