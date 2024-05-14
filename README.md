@@ -12,14 +12,6 @@
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="30">
 </a>
 
-<a href="https://www.kaggle.com/dariocioni">
-  <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" height="30">
-</a>
-
-<a href="https://stackexchange.com/users/23931790/dario-cioni">
-  <img src="https://img.shields.io/badge/StackExchange-%23ffffff.svg?style=for-the-badge&logo=StackExchange" height="30">
-</a>
-
 
 * 📖 Student at University of Florence - Master of Artificial Intelligence
 * :crown: Visiting Research Student at Queen Mary University of London
