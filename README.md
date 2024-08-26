@@ -12,10 +12,9 @@
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="30">
 </a>
 
-
+* AI Developer at PwC Italy - AI Center of Excellence
 * 📖 Student at University of Florence - Master of Artificial Intelligence
 * :crown: Visiting Research Student at Queen Mary University of London
 * 🤖 Deep Learning - Computer Vision and Multimodal Learning research
 * :mortar_board: Currently working on my final thesis on Synthetic Image Detection and Attribution
 * 💻 6+ years of experience as Software Engineer and Analyst
-* 🔭 Looking for job opportunities in the Artificial Intelligence field
